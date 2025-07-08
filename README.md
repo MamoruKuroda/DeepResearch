@@ -1,10 +1,10 @@
 # Deep Research Project
 
-このプロジェクトは、Azure AI Agentsを使用してDeep Research機能を実装したPythonアプリケーションです。
+このプロジェクトは、Azure AI Foundry Agents Service を使用してDeep Research機能を実装したPythonアプリケーションです。
 
 ## 概要
 
-Azure AI Agentsの Deep Research Tool を使用して、指定したトピックについて包括的な調査を行い、結果をMarkdown形式で保存します。同期版と非同期版の両方を提供しています。
+Azure AI Foundry Agents Serviceの Deep Research Tool を使用して、指定したトピックについて包括的な調査を行い、結果をMarkdown形式で保存します。同期版と非同期版の両方を提供しています。
 
 ## ファイル構成
 
@@ -20,7 +20,7 @@ Azure AI Agentsの Deep Research Tool を使用して、指定したトピック
 ### 前提条件
 
 - Python 3.8以上
-- Azure AI Projectsリソース
+- Azure AI Foundry Projectsリソース
 - Bing Search リソース (Deep Research用)
 
 ### インストール

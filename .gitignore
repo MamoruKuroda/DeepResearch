@@ -190,7 +190,6 @@ Desktop.ini
 # Azure and sensitive files
 .azure/
 *.log
-research_summary*.md
 
 # Environment variables
 .env
